@@ -45,8 +45,6 @@ The following libraries are required to run the code:
 
 ## License
 
-## License
-
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Citation
